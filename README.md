@@ -1,4 +1,6 @@
 ## Hi there 👋
 
-I'm Krishav! You can reach me at krishavs@wharton.upenn.edu
+I'm Krishav, a builder and student at the University of Pennsylvania. You can reach me at krishavs@wharton.upenn.edu
+
+Check out krishavs.com for more insights into my projects!
 
